@@ -1,0 +1,2 @@
+# JAVASCRIPT-first-assignment
+new repo My JAVASCRIPT 1st Assingnment-CODE A SMARTER WAY TO LEARN JAVASCRIPT BOOK
